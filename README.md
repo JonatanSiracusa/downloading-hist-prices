@@ -6,7 +6,7 @@
 
 # Downloading Historical Prices
 
-In this simple notebook, we can download historical price series in a scalable way, including many types of prices (Adj Close, Close, High, Low, Open, Volume). Additionally, calculates simple and continuous returns, and determines volatility based on adjusted prices, saving the data in downloadable files in case you want to work offline.
+This notebook allows us to download historical price series in a scalable way, including many types of prices (Adj Close, Close, High, Low, Open, Volume). Additionally, it calculates simple and continuous returns, determines volatility based on adjusted prices, and saves the data in downloadable files for offline use.
 
 
 ## Contact
