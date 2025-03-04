@@ -134,7 +134,6 @@ Si tenes preguntas sobre este proyecto, no dudes en contactarme a través de:
 - **Medium:** [jonatansiracusa.medium.com](https://jonatansiracusa.medium.com/)
 - **GitHub Page:** [jonatansiracusa.github.io](https://jonatansiracusa.github.io/)
 
-## Demo en..
 
 ## Tabla de Contenidos:
 
